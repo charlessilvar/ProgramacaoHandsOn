@@ -1,0 +1,39 @@
+Iniciando um projeto
+-> npx @angular/cli@1.7.4 new nome-projeto
+Iniciar em pasta ja existente
+-> ng init
+Rodar Aplicação
+-> ng serve
+Criar aplicação final
+-> ng build
+Teste Unitarios
+-> ng test
+Teste e2e
+-> ng e2e
+[Geração de código (scaffold-template)
+-> ng generate <tipo> <nome>
+--TIPOS > component / service / module / pipe / directive / class / enum
+Flags uteis component
+--inline-template
+--skip-tests
+Flags uteis module
+--routing
+Versao
+-> ng version
+Ajuda
+-> ng help
+Configurando angular.json
+-> ng set defaults.stylesExt scss
+Atualizando depencias
+-> ng update
+Qualidade de codigo
+-> ng lint
+Extrair i18n
+-> ng xi18n
+Mais utilizados
+-> ng new projeto
+-> ng serve
+-> ng g component nome
+-> ng g service nome
+-> ng build --prod
+-> ng test

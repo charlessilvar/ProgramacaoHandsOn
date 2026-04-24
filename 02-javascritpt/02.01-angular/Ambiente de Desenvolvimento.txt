@@ -1,0 +1,16 @@
+Para Trabalharmos com Angular
+
+1-Instalar o Nodejs
+--https://nodejs.org
+---Usar Versão LTS disponível
+---npm é um gerenciador de pacotes javascript que é instalado junto ao Nodejs. 
+2-Instalar o TypeScript
+--no terminal execute
+---> npm install -g (de modo global) typescript
+|TypeScript
+||ECMAScript6-2015
+|||ECMAScript5-2009
+3-Instalar Angular CLI
+---> npm install -g @angular/cli
+4-IDE Visual Studio Code
+--Suporta TypeScript

@@ -1,0 +1,1 @@
+npx @angular/cli@1.4.1 new nome-projeto
