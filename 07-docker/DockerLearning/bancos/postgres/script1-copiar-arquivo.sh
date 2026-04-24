@@ -1,0 +1,1 @@
+docker cp arquivo.tar postgres17:/arquivo.tar

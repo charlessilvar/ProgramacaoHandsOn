@@ -1,0 +1,48 @@
+[Linux-Ubuntu >=19LTS]
+mininum kernel 3
+sudo su
+service docker.io status
+uname -a > consultar kernel linux
+apt-get update > atualiza indices de pacotes
+apt-get install -y docker.io
+services docker.io status > se nao rodar pode ser compatibility 
+docker -v > ver versao
+ou
+docker version > mais infos
+docker info > bem mais detalhes
+
+[Linux-CentOS7(fork redhat)>Agora substituido por Kalil Linux]
+
+su
+yum install -y docker
+systemctl start docker.service
+systemctl status docker.service
+docker -v
+docker version
+docker info
+systemctl stop docker.service
+
+*ATUALIZANDO DOCKER
+seguir guia oficial do docker...
+--limpando repo docker
+yum remove docker \
+	docker-client\
+	...
+yum update
+--instalando ferramentas yum
+yum install -y yum-utils \
+	device-mapper-persistent-data \
+	lvm2
+--adicionando novo repositorio docker
+yum-config-manager \
+	--add-repo \
+	https://download.docker.com/linux/centos/docker-ce.repo
+--consultando instalacao do repo
+ls /etc/yum.repos.d/ > deve aparecer docker.repo
+--instalando o egine docker (daemon docker)
+yum install docker-ce docker-ce-cli containerd.io
+--iniciar execucao docker
+sysytemctl start docker.service
+
+[DOCKER]
+docker compose up > ler arquivo docker e sobe o container do arquivo

@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  sql-server-db:
+    container_name: sql-server-db
+    hostname: mssqlserver
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    restart: always
+    environment:
+      MSSQL_SA_PASSWORD: "@SqlServer@2019"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1432:1433"
+
+networks:
+  proxy:
+    name: proxy
+    external: true
