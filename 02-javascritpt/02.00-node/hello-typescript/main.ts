@@ -59,3 +59,10 @@ class Pessoa {
         this.cidade = cidade;
     }
 }
+
+//Interfaces
+interface IAnimal {
+    nome: string;
+    idade: number;
+    fazerSom(): void;
+}
