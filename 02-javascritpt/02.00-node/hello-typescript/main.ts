@@ -38,3 +38,11 @@ var saudacao = `Olá, ${nome}! Bem-vinda ao TypeScript.`;
 // Babel também suporta a conversão de código TypeScript para JavaScript, tornando-o uma ferramenta útil 
 // para projetos que utilizam TypeScript.
 // https://babeljs.io/
+
+
+//Tipando variáveis
+let minhaString: string = 'Olá, TypeScript!';
+let meuNumero: number = 42;
+let minhaBoolean: boolean = true;
+let meuArray: number[] = [1, 2, 3];
+let meuObjeto: { nome: string; idade: number } = { nome: 'João', idade: 30 };
