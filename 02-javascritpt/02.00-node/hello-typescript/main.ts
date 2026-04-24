@@ -46,3 +46,16 @@ let meuNumero: number = 42;
 let minhaBoolean: boolean = true;
 let meuArray: number[] = [1, 2, 3];
 let meuObjeto: { nome: string; idade: number } = { nome: 'João', idade: 30 };
+
+//Modificadores de acesso
+class Pessoa {
+    private nome: string;
+    protected idade: number;
+    public cidade: string;
+
+    constructor(nome: string, idade: number, cidade: string) {
+        this.nome = nome;
+        this.idade = idade;
+        this.cidade = cidade;
+    }
+}
