@@ -15,3 +15,11 @@ Angular 1
 
 Angular 2
 --Preparar ambiente de desenvolvimento
+
+Terminologias úteis:
+Javascript Vanilla:
+Assim é Comumente chamado de Javascript puro
+
+Interpolação:
+Meclar contexto html com propriedades do angular/javascript, nós chamamos de 
+

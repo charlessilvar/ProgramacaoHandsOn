@@ -1,3 +1,10 @@
+[TYPESCRIPT]
+Compatível com versao node@10.24.1
+-> npm install -g typescript@4.9.5
+-> tsc arquivo.ts
+--executa um arquivo do tipo typescript quando o ambiente está configurado para tal finalidade
+
+[Angular CLI]
 Iniciando um projeto
 -> npx @angular/cli@1.7.4 new nome-projeto
 Iniciar em pasta ja existente
