@@ -23,3 +23,10 @@ Assim é Comumente chamado de Javascript puro
 Interpolação:
 Meclar contexto html com propriedades do angular/javascript, nós chamamos de 
 
+Transpiler:
+Trasnpiler é um programa que converte código de uma linguagem de programação para outra. No caso do TypeScript, o transpiler converte o código TypeScript para JavaScript, permitindo que ele seja executado em ambientes que suportam JavaScript. O processo de transpile é necessário porque o TypeScript inclui recursos adicionais, como tipagem estática, que não são nativamente suportados pelo JavaScript.
+
+Templante Literals:
+Comumente conhecido como Interpoação
+var nome = 'Maria';
+var saudacao = `Olá, ${nome}! Bem-vinda ao TypeScript.`;
