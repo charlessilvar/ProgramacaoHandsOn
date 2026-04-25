@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\worlddumbestfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\worlddumbestfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorldDumbestFunctionTests.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
+              "RelativeToolTip": "UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T22:57:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorldDumbestFunction.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\WorldDumbestFunction.cs",
+              "RelativeDocumentMoniker": "UnitTests\\WorldDumbestFunction.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\WorldDumbestFunction.cs",
+              "RelativeToolTip": "UnitTests\\WorldDumbestFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T22:53:05.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Program.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Program.cs",
+              "RelativeToolTip": "UnitTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T22:50:44.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
