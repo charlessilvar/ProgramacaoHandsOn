@@ -1,0 +1,16 @@
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\bin\Debug\net5.0\NetworkUtility.exe
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\bin\Debug\net5.0\NetworkUtility.deps.json
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\bin\Debug\net5.0\NetworkUtility.runtimeconfig.json
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\bin\Debug\net5.0\NetworkUtility.runtimeconfig.dev.json
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\bin\Debug\net5.0\NetworkUtility.dll
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\bin\Debug\net5.0\NetworkUtility.pdb
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.AssemblyInfoInputs.cache
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.AssemblyInfo.cs
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.csproj.CoreCompileInputs.cache
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.sourcelink.json
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.dll
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\refint\NetworkUtility.dll
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.pdb
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\NetworkUtility.genruntimeconfig.cache
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility\obj\Debug\net5.0\ref\NetworkUtility.dll

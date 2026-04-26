@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D025CBA-00FF-4E6B-B7AD-6C6612206735}|NetworkUtility.Tests\\NetworkUtility.Tests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility.tests\\pingtests\\networkservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D025CBA-00FF-4E6B-B7AD-6C6612206735}|NetworkUtility.Tests\\NetworkUtility.Tests.csproj|solutionrelative:networkutility.tests\\pingtests\\networkservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility\\ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|solutionrelative:networkutility\\ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D025CBA-00FF-4E6B-B7AD-6C6612206735}|NetworkUtility.Tests\\NetworkUtility.Tests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility.tests\\networkutility.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D025CBA-00FF-4E6B-B7AD-6C6612206735}|NetworkUtility.Tests\\NetworkUtility.Tests.csproj|solutionrelative:networkutility.tests\\networkutility.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|solutionrelative:networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\worlddumbestfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\worlddumbestfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +38,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkServiceTests.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "RelativeDocumentMoniker": "NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "RelativeToolTip": "NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T23:45:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkUtility.Tests",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+              "RelativeDocumentMoniker": "NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+              "RelativeToolTip": "NetworkUtility.Tests\\NetworkUtility.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-25T23:44:29.163Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Ping\\NetworkService.cs",
+              "RelativeDocumentMoniker": "NetworkUtility\\Ping\\NetworkService.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Ping\\NetworkService.cs",
+              "RelativeToolTip": "NetworkUtility\\Ping\\NetworkService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T23:29:21.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Program.cs",
+              "RelativeDocumentMoniker": "NetworkUtility\\Program.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Program.cs",
+              "RelativeToolTip": "NetworkUtility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T23:27:11.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,8 +114,12 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "WorldDumbestFunction.cs",
               "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\WorldDumbestFunction.cs",
               "RelativeDocumentMoniker": "UnitTests\\WorldDumbestFunction.cs",
@@ -64,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Program.cs",
               "RelativeDocumentMoniker": "UnitTests\\Program.cs",
