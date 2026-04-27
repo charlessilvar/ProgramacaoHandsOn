@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NetworkUtility.DNS;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
@@ -10,11 +11,20 @@ namespace NetworkUtility.Ping
 {
     public class NetworkService
     {
-        public string SendPing() 
+        private readonly IDNS _dNS;
+        public NetworkService(IDNS dNS)
         {
-            //SearchDNS();
+            _dNS = dNS;
+        }
+        public string SendPing()
+        {
+            var dnsSuccess = _dNS.SendDNS();
             //BuildPPacket();
-            return "Success: Ping Sent";
+            if (dnsSuccess)
+            {
+                return "Success: Ping Sent";
+            }
+            return "Failed: Ping not sent";
         }
 
         public int PingTimeout(int a, int b)
@@ -38,15 +48,15 @@ namespace NetworkUtility.Ping
         public IEnumerable<PingOptions> MostRecentPings()
         {
             IEnumerable<PingOptions> pingsOptions = new List<PingOptions>{
-                new PingOptions() {
+                new() {
                     DontFragment = true,
                     Ttl = 1
                 },
-                new PingOptions() {
+                new() {
                     DontFragment = true,
                     Ttl = 1
                 },
-                new PingOptions() {
+                new() {
                     DontFragment = true,
                     Ttl = 1
                 }

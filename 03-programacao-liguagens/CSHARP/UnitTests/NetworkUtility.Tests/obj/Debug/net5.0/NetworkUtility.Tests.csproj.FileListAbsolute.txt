@@ -107,3 +107,7 @@ D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagen
 D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\FluentAssertions.dll
 D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\NetworkUtility.dll
 D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\NetworkUtility.pdb
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\Castle.Core.dll
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\FakeItEasy.dll
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+D:\__REVISAO_DE_CONCEITOS_PARA_GITHUB\ProgramacaoHandsOn\03-programacao-liguagens\CSHARP\UnitTests\NetworkUtility.Tests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll

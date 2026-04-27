@@ -11,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|solutionrelative:networkutility\\ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility\\dns\\idns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|solutionrelative:networkutility\\dns\\idns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility\\dns\\dnsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|solutionrelative:networkutility\\dns\\dnsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F1682E-E754-49E2-A73B-EB26270B8D91}|NetworkUtility\\NetworkUtility.csproj|solutionrelative:networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\tests\\worlddumbestfunctiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FF88DEE-7239-4C0D-85EA-D030C9E53DEC}|UnitTests\\UnitTests.csproj|d:\\__revisao_de_conceitos_para_github\\programacaohandson\\03-programacao-liguagens\\csharp\\unittests\\unittests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,12 +49,30 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DNSService.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\DNS\\DNSService.cs",
+              "RelativeDocumentMoniker": "NetworkUtility\\DNS\\DNSService.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\DNS\\DNSService.cs",
+              "RelativeToolTip": "NetworkUtility\\DNS\\DNSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:22:53.799Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDNS.cs",
+              "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\DNS\\IDNS.cs",
+              "RelativeDocumentMoniker": "NetworkUtility\\DNS\\IDNS.cs",
+              "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\DNS\\IDNS.cs",
+              "RelativeToolTip": "NetworkUtility\\DNS\\IDNS.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:22:07.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +82,7 @@
               "RelativeDocumentMoniker": "NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
               "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
               "RelativeToolTip": "NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAIAzwGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T23:45:34.007Z",
               "EditorCaption": ""
@@ -69,26 +95,27 @@
               "RelativeDocumentMoniker": "NetworkUtility\\Ping\\NetworkService.cs",
               "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Ping\\NetworkService.cs",
               "RelativeToolTip": "NetworkUtility\\Ping\\NetworkService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T23:29:21.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Program.cs",
               "RelativeDocumentMoniker": "NetworkUtility\\Program.cs",
               "ToolTip": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\NetworkUtility\\Program.cs",
               "RelativeToolTip": "NetworkUtility\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T23:27:11.631Z"
+              "WhenOpened": "2026-04-25T23:27:11.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WorldDumbestFunctionTests.cs",
               "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
               "RelativeDocumentMoniker": "UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
@@ -96,11 +123,12 @@
               "RelativeToolTip": "UnitTests\\Tests\\WorldDumbestFunctionTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T22:57:59.322Z"
+              "WhenOpened": "2026-04-25T22:57:59.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WorldDumbestFunction.cs",
               "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\WorldDumbestFunction.cs",
               "RelativeDocumentMoniker": "UnitTests\\WorldDumbestFunction.cs",
@@ -108,11 +136,12 @@
               "RelativeToolTip": "UnitTests\\WorldDumbestFunction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T22:53:05.081Z"
+              "WhenOpened": "2026-04-25T22:53:05.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\__REVISAO_DE_CONCEITOS_PARA_GITHUB\\ProgramacaoHandsOn\\03-programacao-liguagens\\CSHARP\\UnitTests\\UnitTests\\Program.cs",
               "RelativeDocumentMoniker": "UnitTests\\Program.cs",
@@ -120,7 +149,8 @@
               "RelativeToolTip": "UnitTests\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T22:50:44.74Z"
+              "WhenOpened": "2026-04-25T22:50:44.74Z",
+              "EditorCaption": ""
             }
           ]
         }
